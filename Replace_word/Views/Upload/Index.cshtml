@@ -1,0 +1,41 @@
+﻿@model IFormFile
+@{
+    var errorMessage = TempData["Message"] as string;
+}
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-success">@errorMessage</div>
+}
+@{
+    var errorrMessage = TempData["InsertMsg"] as string;
+}
+@if (!string.IsNullOrEmpty(errorrMessage))
+{
+    <div class="alert alert-success">@errorrMessage</div>
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Text File</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <h2 style="padding: 20px;">Upload a Text File</h2>
+
+        <form asp-controller="Upload" asp-action="Process" method="post" enctype="multipart/form-data" style="margin: 20px;">
+            <div class="form-group">
+                <label for="file">Select a Text File:</label>
+                <input type="file" name="file" class="form-control-file">
+            </div>
+            <button type="submit" class="btn btn-primary" style="margin-top: 20px;">Upload and Process</button>
+        </form>
+    </div>
+
+</body>
+</html>
+
+
+
+

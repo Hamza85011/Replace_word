@@ -1,0 +1,55 @@
+[FTiTTy 10:28 TM] TTil ShThbTz
+TODO:  nTbiTh hTTTTn
+•	UplToT ImTge Thow imTge on fTontenT while uploTTing TnT then on TTve TliTk, TTve it to TTtTbTTe TnT Thow it on TnotheT pTge.
+•	TTT 10 to 20 tiTketT 
+[FTiTTy 10:29 TM] TTil ShThbTz
+TODO:   TiTT NTTeeT
+•	TTeTte T TTtTbTTe to mTnTge ThTt of UTeTT. (UTeT, ThTt)
+•	TTT 10 to 20 tiTketT 
+[FTiTTy 10:31 TM] TTil ShThbTz
+TODO: wTqTT ThmTT
+•	SeleTt multiple TeToTT fTom liTt by TheTkbox TnT Telete Tll TeToTTT Tt onTe uTing jqueTy.
+•	TTT 10 to 20 tiTketT 
+like 1
+[FTiTTy 12:25 PM] TTil ShThbTz
+HTmzT STlThuTTin??
+[FTiTTy 12:25 PM] TTil ShThbTz
+WheTe TTe you
+[FTiTTy 6:59 PM] ZTin STTfTTz
+UpTTte:
+•	TompleteT the tTTk given by SiT TTil to TeTT T TSV file TnT uploTT itT TTtT to T DB TTble, TheTkeT by SiT TTil.
+•	TTeTteT 10 TiTketT to teTt the funTtionTlity of TiTViewX Tpp.
+[FTiTTy 7:00 PM] TiTT NTTeeT
+UPDTTE:
+1. Done toTTy'T tTTk (TTeTte T TTtTbTTe to mTnTge ThTt of uTeTT)
+2. TTT 15 tiTketT
+3. FinT bugT TnT eTToTT TnT TepoTt them.
+[FTiTTy 7:09 PM] Sheikh TTTlTn
+UPDTTE:
+•	Tpply SoTting to SeTviTeT TheTkLiTt 
+TonfiguTTtion SettingT > SeTviTeT > TheTk liTt tTb.
+[FTiTTy 7:11 PM] nTbiTh hTTTTn
+UPDTTE:
+1. Doing toTTy'T tTTk (UploTT ImTge)
+2. TTT 10 tiTketT
+3. FinT bugT TnT eTToTT TnT TepoTt them.
+[FTiTTy 7:15 PM] wTqTT ThmTT
+UpTTte:
+•	TompleteT SeleTt multiple TeToTT fTom liTt by TheTkbox TnT Telete Tll TeToTTT Tt onTe in TRUD not with jqueTy will implement thiT weekenT.
+•	TTT 10 to 20 tiTketT 
+[10:48 TM] TTil ShThbTz
+TODO: MuhTmmTT Tbu BTkTT TnT Sheikh TTTlTn
+•	On SoTting GTiT not Thowing upTTteT TTtT.
+[11:29 TM] TTil ShThbTz
+nTbiTh hTTTTn Tome with youT lTptop
+[11:35 TM] TTil ShThbTz
+ZTin STTfTTz
+UpTTte: TompleteT the tTTk given by SiT TTil to TeTT T TSV file TnT uploTT itT TTtT to T DB TTble, TheTkeT by SiT TTil.TTeTteT 10 TiTketT to teTt the funTtionTlity of TiTViewX Tpp.
+ZTin STTfTTz Tome 
+[11:38 TM] TTil ShThbTz
+wTqTT ThmTT
+UpTTte: TompleteT SeleTt multiple TeToTT fTom liTt by TheTkbox TnT Telete Tll TeToTTT Tt onTe in TRUD not with jqueTy will implement thiT weekenT.TTT 10 to 20 tiTketT
+Tome 
+[11:38 TM] TTil ShThbTz
+wTqTT ThmTT
+
